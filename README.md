@@ -13,7 +13,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 
 ## About Me
 
-I'm a data scientist & a machine learning enthusist from Bangladesh, who loves open source, and is currently studying Electrical & Computer Engineering(ECE) in Rajshahi University of Science & Technology (RUET). I mainly code in Python, I am currently working on learning different machinelearning frameworks. I am always eager to learning & curious to explore oppertunities. I have recently finished Googles Data Science course on Coursera. 
+I'm a data scientist & a machine learning enthusist from Bangladesh, who loves open source, and is currently studying Electrical & Computer Engineering(ECE) in Rajshahi University of Science & Technology (RUET). I mainly code in Python, I am currently working on learning different machine learning frameworks. I am always eager to learn & curious to explore oppertunities. I have recently finished Googles Data Science course on Coursera. 
 <!-- BLOG-POST-LIST:END -->
 
 ## Links
