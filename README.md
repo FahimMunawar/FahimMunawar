@@ -24,7 +24,7 @@ I'm a data scientist & a machine learning enthusist from Bangladesh, who loves o
   <a href="http://discord.com/users/747440309180563456"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
   <a href="https://twitter.com/matyo91"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="https://www.youtube.com/user/matyo91"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
-  <a href="https://www.facebook.com/fahim.munawar/"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100087086298582"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
   <a href=https://www.instagram.com/bee_fahim/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
   <a href="https://www.reddit.com/user/Fahim-Muna"><img src="https://img.icons8.com/color/96/000000/reddit.png" alt="reddit"/></a>
 </p>
